@@ -1,0 +1,23 @@
+table {
+  background-color: aqua;
+  border-radius: 10px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+h1 {
+  color: bisque;
+}
+p {
+  background-color: aliceblue;
+}
+ul {
+  background-color: aliceblue;
+}
+.consectetur {
+  background-color: teal;
+}
+.heading {
+  color: hotpink;
+  margin: 2px;
+  padding: 20px;
+  border: solid black;
+}

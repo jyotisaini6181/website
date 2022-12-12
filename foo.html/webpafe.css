@@ -1,0 +1,27 @@
+nav {
+  background-color: #cecece;
+  text-align: center;
+}
+
+nav ul {
+  padding-left: 0%;
+}
+
+nav li {
+  list-style: none;
+  display: inline-block;
+  margin: 20px 20px;
+  border-bottom: 1px solid black;
+  text-transform: uppercase;
+}
+section h2 {
+  border-bottom: 2px solid black;
+}
+a {
+  text-decoration: none;
+  color: #444;
+}
+* {
+  scroll-behavior: smooth;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
